@@ -1,5 +1,6 @@
 # Space-Weather-Live-data-Scraping-Preparation-and-Analysis
 **Data Scraping and Preparation**
+
 Step 1: Scrape your competitor’s data. Use Python to scrape data for the top 50 solar flares shown in SpaceWeatherLive.com
 
 Step 2: Tidy the top 50 solar flare data. The next step is to make sure that this table is usable using pandas.
